@@ -21,4 +21,4 @@ requests==2.28.1
 six==1.16.0
 urllib3==1.26.12
 Werkzeug==2.2.2
-yarg==0.1.9{\rtf1}
+yarg==0.1.9
